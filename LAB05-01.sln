@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB05-BUS", "LAB05-BUS.csproj", "{7952FEBA-8A85-4D55-894D-A608AE2F89BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB05-GUI", "..\LAB05-GUI\LAB05-GUI.csproj", "{7A6A55DB-7097-4384-9C9E-CD839317BAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB05-DAL", "..\LAB05-DAL\LAB05-DAL.csproj", "{785EE5D2-D6E3-4E12-9025-DFBFD3E64751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7952FEBA-8A85-4D55-894D-A608AE2F89BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7952FEBA-8A85-4D55-894D-A608AE2F89BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7952FEBA-8A85-4D55-894D-A608AE2F89BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7952FEBA-8A85-4D55-894D-A608AE2F89BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6A55DB-7097-4384-9C9E-CD839317BAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6A55DB-7097-4384-9C9E-CD839317BAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6A55DB-7097-4384-9C9E-CD839317BAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6A55DB-7097-4384-9C9E-CD839317BAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785EE5D2-D6E3-4E12-9025-DFBFD3E64751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785EE5D2-D6E3-4E12-9025-DFBFD3E64751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785EE5D2-D6E3-4E12-9025-DFBFD3E64751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785EE5D2-D6E3-4E12-9025-DFBFD3E64751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD66186C-E3BA-470C-AE90-5EB25BC9B38E}
+	EndGlobalSection
+EndGlobal
